@@ -113,7 +113,7 @@ const createPhotosArray = () => {
 };
 
 // Генерирация массив и сохранение в переменную
-const photos = createPhotosArray();
+const photos = createPhotosArray(); // eslint-disable-line no-unused-vars
 
 // Проверка
 // console.log(photos);
